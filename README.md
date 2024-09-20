@@ -18,5 +18,5 @@ Proyecto de la clase para la unidad 1 de la asignatura de Desarrollo Móvil Inte
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ## AUTOR
-Elaborado por: T.S.U Ameli Pérez Garrido [@Zahidborg](https://github.com/Zahidborg)
+Elaborado por: T.S.U Zahid Ramirez Estuillo [@Zahidborg](https://github.com/Zahidborg)
 
